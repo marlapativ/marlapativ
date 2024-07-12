@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=25&duration=2500&pause=3000&color=39F790&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+This+is+Teja.)](https://git.io/typing-svg)
 <!--
 **marlapativ/marlapativ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
